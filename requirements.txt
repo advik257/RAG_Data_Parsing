@@ -16,3 +16,5 @@ pdfminer
 python-docx
 docx2txt
 unstructured[docx]
+openpyxl
+unstructured[excel] 
