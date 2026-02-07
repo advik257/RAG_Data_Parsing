@@ -1,0 +1,13 @@
+Python is a high‑level, beginner‑friendly programming language created by Guido van Rossum in 1991. It is widely used for web development, data analysis, artificial intelligence, automation, and more because of its simple, readable syntax and powerful libraries. 
+
+What is Python?
+General-purpose language: Can be used for web apps, desktop software, scripting, data science, and machine learning.
+
+Cross-platform: Works on Windows, macOS, Linux, and even Raspberry Pi.
+
+Interpreted: Code runs line by line, making it easier to test and debug.
+
+Open-source: Free to use, with a huge global community.
+
+Why Python is Popular
+Readable syntax: Its code looks close to English
